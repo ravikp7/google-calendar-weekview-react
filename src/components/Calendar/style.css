@@ -1,0 +1,35 @@
+.next-enter {
+  transform: translateX(50px);
+}
+
+.next-enter.next-enter-active {
+  transform: translateX(0);
+  transition: transform 100ms ease-in-out;
+}
+
+.next-leave {
+  transform: translateX(0);
+}
+
+.next-leave.next-leave-active {
+  transform: translateX(50px);
+  transition: transform 100ms ease-in-out;
+}
+
+.previous-enter {
+  transform: translateX(-50px);
+}
+
+.previous-enter.previous-enter-active {
+  transform: translateX(0);
+  transition: transform 100ms ease-in-out;
+}
+
+.previous-leave {
+  transform: translateX(0);
+}
+
+.previous-leave.previous-leave-active {
+  transform: translateX(-50px);
+  transition: transform 100ms ease-in-out;
+}

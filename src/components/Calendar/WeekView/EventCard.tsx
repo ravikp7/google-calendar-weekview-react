@@ -1,5 +1,5 @@
 // @ts-nocheck
-import React from 'react';
+import React, { useMemo } from 'react';
 import styled from 'styled-components';
 import moment from 'moment';
 
@@ -32,7 +32,7 @@ interface EventCardProps {
 }
 
 const EventCard: React.FC<EventCardProps> = ({ title, startTime, endTime, description, top, height }) => {
-  const randomColorIndex = Math.floor(Math.random() * colorPalette.length);
+  const randomColorIndex = useMemo(() => Math.floor(Math.random() * colorPalette.length), []);
   return (
     <Container style={{ top, height, background: colorPalette[randomColorIndex] }}>
       <Title>{title}</Title>
