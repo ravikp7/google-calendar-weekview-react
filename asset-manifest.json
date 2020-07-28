@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-calendar-weekview-react/static/css/main.d1224334.chunk.css",
+    "main.js": "/google-calendar-weekview-react/static/js/main.382a8c7e.chunk.js",
+    "main.js.map": "/google-calendar-weekview-react/static/js/main.382a8c7e.chunk.js.map",
+    "runtime-main.js": "/google-calendar-weekview-react/static/js/runtime-main.e3e3aea5.js",
+    "runtime-main.js.map": "/google-calendar-weekview-react/static/js/runtime-main.e3e3aea5.js.map",
+    "static/js/2.edeeb979.chunk.js": "/google-calendar-weekview-react/static/js/2.edeeb979.chunk.js",
+    "static/js/2.edeeb979.chunk.js.map": "/google-calendar-weekview-react/static/js/2.edeeb979.chunk.js.map",
+    "index.html": "/google-calendar-weekview-react/index.html",
+    "precache-manifest.d403a770728e1155ace56e345b80421f.js": "/google-calendar-weekview-react/precache-manifest.d403a770728e1155ace56e345b80421f.js",
+    "service-worker.js": "/google-calendar-weekview-react/service-worker.js",
+    "static/css/main.d1224334.chunk.css.map": "/google-calendar-weekview-react/static/css/main.d1224334.chunk.css.map",
+    "static/js/2.edeeb979.chunk.js.LICENSE.txt": "/google-calendar-weekview-react/static/js/2.edeeb979.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3e3aea5.js",
+    "static/js/2.edeeb979.chunk.js",
+    "static/css/main.d1224334.chunk.css",
+    "static/js/main.382a8c7e.chunk.js"
+  ]
+}
