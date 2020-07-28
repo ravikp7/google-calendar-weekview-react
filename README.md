@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed at https://ravikp7.github.io/google-calendar-weekview-react
+
+![Week View Screenshot](./static/screenshot.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
